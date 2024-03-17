@@ -10,6 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  flutter_rating_bar: ^4.0.1
   flutter_animate: ^4.2.0+1
   go_router: ^10.1.2
   syncfusion_flutter_datepicker: ^22.2.12
